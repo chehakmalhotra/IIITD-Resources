@@ -3,5 +3,5 @@ Reviews of electives: https://docs.google.com/document/d/1v8EJcxPvXgtNYNFtnUjrvd
 
 
 
-Discrete Structures (Samaresh Chatterjee)
+Discrete Structures (Samaresh Chatterji)
 https://calcworkshop.com/relations/partial-order/
