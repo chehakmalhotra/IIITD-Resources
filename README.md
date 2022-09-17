@@ -5,3 +5,8 @@ Reviews of electives: https://docs.google.com/document/d/1v8EJcxPvXgtNYNFtnUjrvd
 
 Discrete Structures (Samaresh Chatterji)
 https://calcworkshop.com/relations/partial-order/
+
+
+
+OS
+https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
