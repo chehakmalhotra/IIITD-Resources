@@ -10,3 +10,4 @@ https://calcworkshop.com/relations/partial-order/
 
 OS
 https://jameshfisher.com/2018/03/10/linux-assembly-hello-world/
+https://www.cs.fsu.edu/~langley/CNT5605/2017-Summer/assembly-example/assembly.html
