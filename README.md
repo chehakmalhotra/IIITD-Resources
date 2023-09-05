@@ -16,3 +16,6 @@ https://beej.us/guide/bgipc/html/single/bgipc.html#shm
 
 AP
 https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
+
+ML
+https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab
